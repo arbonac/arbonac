@@ -1,0 +1,72 @@
+<!DOCTTPE html>
+<html lang\"en"></html>
+<head>
+    <meta charset=UTF-8/>
+    <meta http-eqiv=\"X-UA-Compatible\"content=\"IE=edge>
+    <meta name=\"viewport\"content=\"width=device-width,Initial-scale=1.0">
+    <title>Page One</title>
+</head>
+<body>
+
+    <img src="https://cdn.pixabay.com/photo/2017/08/06/06/42/pizza-2589569_640.jpg" width="400" 
+    height="300" />
+
+  <p>
+  </p>
+  <h1>Pizzeria</h1>
+
+  <h2>Lorem ipsum dolor</h2>
+</iframe>
+</html>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
+ut labore et dolore magna aliqua. Morbi leo urna molestie at elementum eu facilisis sed odio. 
+Massa vitae tortor condimentum lacinia. Eget nulla facilisi etiam dignissim diam quis enim. 
+Duis at tellus at urna condimentum mattis pellentesque id nibh. Elit duis tristique sollicitudin 
+nibh sit amet commodo nulla facilisi. Ut faucibus pulvinar elementum integer. Etiam non quam 
+lacus suspendisse faucibus interdum posuere lorem. Consectetur a erat nam at lectus urna duis 
+convallis. Massa enim nec dui nunc mattis enim. Sit amet consectetur adipiscing elit pellentesque 
+habitant.
+
+
+</p><p>
+Vestibulum mattis ullamcorper velit sed ullamcorper morbi tincidunt. Libero enim sed faucibus 
+turpis in eu mi bibendum neque. Ut tristique et egestas quis ipsum suspendisse ultrices gravida. 
+Nunc congue nisi vitae suscipit tellus. Nibh ipsum consequat nisl vel pretium lectus quam. Magna 
+fringilla urna porttitor rhoncus dolor purus non enim. Sit amet aliquam id diam maecenas 
+ultricies mi eget. Aliquet risus feugiat in ante metus dictum at. Diam sit amet nisl suscipit 
+adipiscing bibendum est ultricies. Ultricies integer quis auctor elit sed vulputate mi sit amet.
+<p>
+  <p>
+
+Pat urna condimentum mattis pellentesque id. Elit scelerisque mauris pellentesque pulvinar 
+pellentesque habitant morbi. Et malesuada fames ac turpis egestas sed tempus urna et. Urna 
+molestie at elementum eu facilisis sed odio morbi. Ultrices dui sapien eget mi. Volutpat commodo 
+sed egestas egestas fringilla phasellus faucibus scelerisque eleifend. Nunc pulvinar sapien et 
+ligula ullamcorper. Id neque aliquam vestibulum morbi blandit cursus risus at ultrices. Phasellus 
+egestas tellus rutrum tellus pellentesque eu tincidunt. Mauris a diam maecenas sed enim. 
+Velit scelerisque in dictum non consectetur a. Quis enim lobortis scelerisque fermentum 
+dui faucibus in. Tempor nec feugiat nisl pretium. Facilisis magna etiam tempor orci eu. Eget
+mi proin sed libero enim. Faucibus interdum posuere lorem ipsum dolor sit. Non pulvinar neque 
+laoreet suspendisse interdum consectetur. Massa eget egestas purus viverra.
+<p></p>
+
+<p></p>
+Ultrices sagittis orci a scelerisque purus semper. Dui nunc mattis enim ut tellus elementum sagittis 
+vitae et. Integer eget aliquet nibh praesent tristique magna sit amet. Ut tortor pretium viverra 
+suspendisse potenti nullam. Odio morbi quis commodo odio aenean sed adipiscing diam donec. Ac tortor 
+dignissim convallis aenean et. Id interdum velit laoreet id donec ultrices. Vel pharetra vel turpis 
+nunc eget lorem dolor sed. Turpis egestas sed tempus urna et. Eget lorem dolor sed viverra ipsum nunc 
+aliquet. In ante metus dictum at. Bibendum enim facilisis gravida neque convallis a cras semper
+auctor. Morbi tincidunt ornare massa eget egestas purus. Ac feugiat sed lectus vestibulum mattis 
+ullamcorper velit. Nisi quis eleifend quam adipiscing vitae proin. Risus pretium quam vulputate 
+dignissim.
+<br></br>
+<a href="https://github.com/arbonac/HTML-and-CSS/blob/main/02boot%20page%20two.txt">Page 2</a>
+</p>
+
+</p>
+</body>
+
+
+  
+</p>
